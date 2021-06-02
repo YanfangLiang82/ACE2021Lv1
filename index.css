@@ -1,0 +1,13 @@
+body  {
+
+    background-image: url(https://th.bing.com/th/id/Rd6c6073a77f8e17c58aca5666f2417df?rik=oDb%2fBxiwDZgRvg&riu=http%3a%2f%2fcdn.wallpapersafari.com%2f94%2f3%2fY7V4l0.jpg&ehk=lhhsihuY%2bIpjDxEuu7XZHl7J8v2T5xesePlPtoXx3Pc%3d&risl=&pid=ImgRaw);
+    background-size: 100%;
+    height: 30 % px; 
+  background-position: cener;
+  background-repeat: no-repeat;
+  background-size: cover; 
+  background-attachment: fixed;
+}
+table {
+    border-spacing:25px;
+}
